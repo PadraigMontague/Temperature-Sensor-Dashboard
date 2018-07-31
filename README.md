@@ -3,13 +3,13 @@ This is a web application which displays the current, lowest and highest tempera
 
 ## This project was developed using the following:
 -	Raspberry Pi 2 Model B
--	DS18B20 thermostat
+-	DS18B20 thermometer
 
 ## How to run the project:
 
 #### Thermostat:
 -	Make sure you have correctly connected and configured your thermostat.
--	Take note of the path where your thermostat writes the temperature data to.
+-	Take note of the path where your thermometer writes the temperature data to.
 
 #### Backend:
 -	Make sure you have installed the Django Framework on your raspberry pi.
@@ -24,6 +24,6 @@ This is a web application which displays the current, lowest and highest tempera
     -	‘api’,
 
 #### Frontend:
--	Once your Django project is setup and running, copy the link of your API and paste it into the fetch function in the main.js.
+-	Once your Django project is setup and running, copy the link of your API and paste it into the fetch function in the main.js file.
 -	The project should now be working.
 
