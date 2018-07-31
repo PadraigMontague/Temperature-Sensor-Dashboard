@@ -7,8 +7,8 @@ This is a web application which displays the current, lowest and highest tempera
 
 ## How to run the project:
 
-#### Thermostat:
--	Make sure you have correctly connected and configured your thermostat.
+#### Thermometer:
+-	Make sure you have correctly connected and configured your thermometer.
 -	Take note of the path where your thermometer writes the temperature data to.
 
 #### Backend:
